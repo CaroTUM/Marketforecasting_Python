@@ -12,4 +12,4 @@ The raw data is a parquet format and contains the data of day0, which represent 
 
 # Notebooks for model testing
 
-The notebooks folder contains the code for the six models tested: Random Forest, Ridge, MLP, XGBoost, LassoRegression, and LightGBM. because the light gbm has been particularly well tested and improved, the code is distributed across three notebooks: 
+The notebooks folder contains the code for the six models tested: Random Forest, Ridge, MLP, XGBoost, LassoRegression, and LightGBM. because the light gbm has been particularly well tested and improved, the code is distributed across three notebooks: LightGBM.ipynb for the baseline model, LightGBM_shap.ipynb for a SHAP analysis and related optimizations and LightGBM_optimization.ipynb for further optimizations, i.e. the Bayesian Optimization. 
