@@ -8,7 +8,7 @@ The relevant folders are data, models and notebooks. The detailed steps can be u
 
 # Data
 
-The raw data is a parquet format and contains the data of day0, which represent the relavant part of the data. The steps of the data cleaning can be tracked in the notebook datacleaning_finalcode.ipynb. The cleaned data set is saved in der data - raw folder. 
+The raw data is a parquet format and contains the data of day0, which represent the relavant part of the data. The steps of the data cleaning can be tracked in the notebook datacleaning_finalcode.ipynb. The cleaned data set is saved in the data - raw folder. 
 
 # Notebooks for model testing
 
